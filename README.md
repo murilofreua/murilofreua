@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>  
   
 <div>
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.linkedin.com/in/murilo-freua-33b098239/" target="_blank" img= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/murilo-freua-33b098239/" target="_blank" img= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
                                                                                 
 
