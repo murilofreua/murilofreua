@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 🌱 Aprendendo as linguagens Java, Python, HTML e CSS
 - 🤔 Busco ajuda para formatação de algoritmos
 
-<div>
+<div align="center">
   <a href="https://github.com/murilofreua">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilofreua&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofreua&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofreua&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
