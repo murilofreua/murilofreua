@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 
 - 💻 Estudante de Engenharia de Software
 - 🌱 Aprendendo as linguagens Java, Python, HTML e CSS
-- 🤔 Busco ajuda para formatação de algoritmos
 
 <div>
   <a href="https://github.com/murilofreua">
