@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## Salve!
 
 - 💻 Estudante de Engenharia de Software
-- 🌱 Aprendendo as linguagens Java, Python, HTML e CSS
+- 🌱 Aprendendo as linguagens JavaScript e Java
 
 <div>
   <a href="https://github.com/murilofreua">
