@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 
 ## Salve!
 
-- 💻 Estudante de Engenharia de Software
+- Estudante de Engenharia de Software
+- Interesse em Desenvolvimento Web
+- Estudando .NET e React
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
