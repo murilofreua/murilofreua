@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - Estudante de Engenharia de Software
 - Interesse em Desenvolvimento Web
-- Estudando .NET e React
+- Aprendendo as tecnologias .NET e React
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
