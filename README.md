@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 ## Salve!
 
 - Profissional de Engenharia de Software
-- Interesse em Desenvolvimento Web
-- Aprendendo as tecnologias .NET e React
+- Consistência e organização
+- Foco no ecossistema .NET
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
