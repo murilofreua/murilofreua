@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ## Salve!
 
-- Estudante de Engenharia de Software
+- Profissional de Engenharia de Software
 - Interesse em Desenvolvimento Web
 - Aprendendo as tecnologias .NET e React
 
